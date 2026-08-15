@@ -20,6 +20,9 @@ Covers:
 Additional sample cookbook:
 - [Docs/PhAtMergerNetworkSamples.md](Docs/PhAtMergerNetworkSamples.md)
 
+## Sample
+<img width="1355" height="574" alt="image" src="https://github.com/user-attachments/assets/fc1bc3cf-127c-4a73-bab6-8a6580e0ab4d" />
+
 
 ## Blueprint
 <img width="1196" height="529" alt="image" src="https://github.com/user-attachments/assets/f94d7202-0e68-4f31-9463-ad8315c6cecc" />
@@ -29,4 +32,3 @@ Additional sample cookbook:
 <img width="1058" height="490" alt="image" src="https://github.com/user-attachments/assets/4bcdde9e-0b23-4510-a365-7cb0d44efb47" />
 <img width="786" height="455" alt="image" src="https://github.com/user-attachments/assets/684bdcbc-43b8-4ea0-bab3-7971ebc30b32" />
 <img width="473" height="489" alt="image" src="https://github.com/user-attachments/assets/7503cae0-dc78-462b-8bf8-7978b0ae4f1e" />
-
