@@ -19,3 +19,7 @@ Covers:
 
 Additional sample cookbook:
 - [Docs/PhAtMergerNetworkSamples.md](Docs/PhAtMergerNetworkSamples.md)
+
+
+## Blueprint
+<img width="1196" height="529" alt="image" src="https://github.com/user-attachments/assets/f94d7202-0e68-4f31-9463-ad8315c6cecc" />
