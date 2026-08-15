@@ -19,6 +19,3 @@ Covers:
 
 Additional sample cookbook:
 - [Docs/PhAtMergerNetworkSamples.md](Docs/PhAtMergerNetworkSamples.md)
-
-Line-by-line developer walkthrough:
-- [Docs/PhAtMergerLineByLineDevDoc.md](Docs/PhAtMergerLineByLineDevDoc.md)
