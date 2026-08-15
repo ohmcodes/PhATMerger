@@ -3,6 +3,9 @@ Unreal Engine Physics Asset Merger
 
 runtime skeletal mesh + physics merge helpers.
 
+## Download
+[Latest](https://github.com/ohmcodes/PhATMerger/releases/latest)
+
 ## Documentation
 
 - Full guide: [Docs/PhAtMergerGuide.md](Docs/PhAtMergerGuide.md)
