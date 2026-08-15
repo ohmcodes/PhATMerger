@@ -3,8 +3,10 @@ Unreal Engine Physics Asset Merger
 
 runtime skeletal mesh + physics merge helpers.
 
+[![Total Downloads](https://img.shields.io/github/downloads/ohmcodes/PhATMerger/total.svg)](https://github.com/ohmcodes/PhATMerger/releases) 
+
 ## Download
-[Latest](https://github.com/ohmcodes/PhATMerger/releases/latest)
+   [Latest](https://github.com/ohmcodes/PhATMerger/releases/latest)
 
 ## Documentation
 
