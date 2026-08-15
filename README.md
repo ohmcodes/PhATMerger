@@ -21,9 +21,12 @@ Additional sample cookbook:
 - [Docs/PhAtMergerNetworkSamples.md](Docs/PhAtMergerNetworkSamples.md)
 
 ## Merged Sample
+Every physics asset settings are preserved when merging only collision has been remove if they are overlapping to prevent crazy colliding
 <img width="1355" height="574" alt="image" src="https://github.com/user-attachments/assets/fc1bc3cf-127c-4a73-bab6-8a6580e0ab4d" />
 
 ## Parts
+Every parts has its own physics asset with simulated physics setup in it also different bones (i just setup _01 coz im lazy)
+Note: Bones should have different names
 <img width="1468" height="859" alt="image" src="https://github.com/user-attachments/assets/e46dfcb3-6067-4620-b821-fbc84cb8a82f" />
 
 
